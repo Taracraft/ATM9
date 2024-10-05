@@ -1,0 +1,1 @@
+screen -dmS DC_ATM9 python3.11 /home/discord/ATM9/Twitch/twich-live.py

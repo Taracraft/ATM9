@@ -1,0 +1,15 @@
+[2024-10-04 21:18:58] [DEBUG   ] discord.client: on_ready has successfully been registered as an event
+[2024-10-04 21:18:58] [INFO    ] discord.client: logging in using static token
+[2024-10-04 21:18:59] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 987b1babdfffe84e2b254bc6432c61d3).
+[2024-10-04 21:19:02] [INFO    ] discord: Channel: twitch
+[2024-10-04 21:19:04] [INFO    ] discord: Streams retrieved: {'mcbadtiming': {'id': '42950995256', 'user_id': '734556547', 'user_login': 'mcbadtiming', 'user_name': 'MCBadTiming', 'game_id': '27471', 'game_name': 'Minecraft', 'type': 'live', 'title': 'Basic Aufbau der Tech Base', 'viewer_count': 1, 'started_at': '2024-10-04T15:35:57Z', 'language': 'de', 'thumbnail_url': 'https://static-cdn.jtvnw.net/previews-ttv/live_user_mcbadtiming-{width}x{height}.jpg', 'tag_ids': [], 'tags': ['Technik', 'forge', 'atm9', 'Deutsch', 'ae2', 'Tutorial', 'mob', 'farm', 'Applied', 'Energistics'], 'is_mature': False}}
+[2024-10-04 21:19:16] [DEBUG   ] discord.client: on_ready has successfully been registered as an event
+[2024-10-04 21:19:16] [INFO    ] discord.client: logging in using static token
+[2024-10-04 21:19:17] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 534191fe88da49102d0566a4c03e2ad9).
+[2024-10-04 21:19:19] [INFO    ] discord: Channel: twitch
+[2024-10-04 21:19:21] [INFO    ] discord: Streams retrieved: {'mcbadtiming': {'id': '42950995256', 'user_id': '734556547', 'user_login': 'mcbadtiming', 'user_name': 'MCBadTiming', 'game_id': '27471', 'game_name': 'Minecraft', 'type': 'live', 'title': 'Basic Aufbau der Tech Base', 'viewer_count': 1, 'started_at': '2024-10-04T15:35:57Z', 'language': 'de', 'thumbnail_url': 'https://static-cdn.jtvnw.net/previews-ttv/live_user_mcbadtiming-{width}x{height}.jpg', 'tag_ids': [], 'tags': ['Technik', 'forge', 'atm9', 'Deutsch', 'ae2', 'Tutorial', 'mob', 'farm', 'Applied', 'Energistics'], 'is_mature': False}}
+[2024-10-04 21:19:53] [DEBUG   ] discord.client: on_ready has successfully been registered as an event
+[2024-10-04 21:19:53] [INFO    ] discord.client: logging in using static token
+[2024-10-04 21:19:54] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: d96dcf013f7832e0658a2b4d0a05c7c2).
+[2024-10-04 21:19:57] [INFO    ] discord: Channel: twitch
+[2024-10-04 21:19:58] [INFO    ] discord: Streams retrieved: {'mcbadtiming': {'id': '42950995256', 'user_id': '734556547', 'user_login': 'mcbadtiming', 'user_name': 'MCBadTiming', 'game_id': '27471', 'game_name': 'Minecraft', 'type': 'live', 'title': 'Basic Aufbau der Tech Base', 'viewer_count': 1, 'started_at': '2024-10-04T15:35:57Z', 'language': 'de', 'thumbnail_url': 'https://static-cdn.jtvnw.net/previews-ttv/live_user_mcbadtiming-{width}x{height}.jpg', 'tag_ids': [], 'tags': ['Technik', 'forge', 'atm9', 'Deutsch', 'ae2', 'Tutorial', 'mob', 'farm', 'Applied', 'Energistics'], 'is_mature': False}}
